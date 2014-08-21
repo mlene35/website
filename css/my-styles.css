@@ -1,0 +1,65 @@
+
+body{
+
+    background-color: #ffffff;
+
+
+}
+
+
+h2{
+    font-size: 25px;
+    font-family: 'Sansita One', cursive;
+    color:#777777;
+}
+
+h5{
+
+    font-family: 'Sansita One', cursive;
+    color:#777777;
+}
+
+
+.header{
+    background-color:#dff0d8 ;
+    padding-bottom: 10px;
+}
+
+.be-header{
+    background-color: #fff;
+    padding-bottom: 10px;
+}
+
+
+.header .logo-holder{
+    margin-left: 30px;
+}
+
+.header .navbar-default .navbar-nav > li > a {
+    color: #009457;
+}
+
+
+
+
+.slider-holder{
+    margin-top:20px;
+}
+.navbar-holder{
+    background-color: #fffcef;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+
+    background-color: #b2b2ab;
+
+}
+ .paketgroessebild
+{
+   height:150px;
+     width:150px;
+
+ }
+
+
